@@ -1,0 +1,12 @@
+    1. Noise
+Implement peak check - whether it's a melody peak or just noise
+
+    2. Memory
+Test for memory usage on large and loaded audio files
+
+    3. Record length
+Test recording 2 hour audio
+
+    4. Samples length
+Samples length should be very close to the length of the melodies that will be detected
+

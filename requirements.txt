@@ -1,0 +1,16 @@
+    1. Silence between melodies
+there should be more than 7 seconds of silence between the melodies
+
+    2. Noise
+Recording should be made via cable (not microphone).
+
+    3. Sleep and low battery
+The testing machine must always stay 'awake' and the charger plugged in (or under supervision)
+
+    4. Output folders
+If not in debug mode, output folders are cleared before exporting anything to then
+
+    5. First and last melody trigger times
+The first melody should be triggered at least 7 seconds after the record starts
+The last melody should be triggered at least 10 before the record ends
+

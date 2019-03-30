@@ -1,0 +1,22 @@
+No need to save and then read the recording when looking for beginnings etc.
+This needs to be done only when identifying melody names
+
+when looking for a peak - make sure it's a valid one (not just noise)
+
+Volume - the app should know if the media volume is being overridden
+
+Lists -> generators / lists -> tuples
+
+Test memory usage
+
+After assure - if failed - allow manual verification
+
+Don't detect ends -> peak + verify peak +  seconds
+
+clear output folder before saving files
+
+auto save recording
+
+join methods: save_record and save detected melodies
+
+searching for peaks : set step and accuracy
